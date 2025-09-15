@@ -102,6 +102,7 @@
 | **CoffeeShopProject**     | <img src="https://img.shields.io/badge/B-323232?style=for-the-badge&labelColor=111&color=333&labelWidth=30&logoColor=grey"/> |
 
 </div>
+
 ---
 
 ## 💬 Random Dev Quote
