@@ -31,8 +31,7 @@
 ---
 
 ## 🌐 Connect with Me  
-- 📷 [Instagram](#)  
-- 💼 [LinkedIn](#)  
-- ✉️ [Email](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/krish-patil-nst)
+- ✉️ [Email](mailto:krishpatil120@gmail.com)  
 
 ---
