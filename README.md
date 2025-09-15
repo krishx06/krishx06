@@ -23,22 +23,22 @@
 ## 🚀 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-68a063?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4079ad?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-3fa037?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat-square&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00c4cc?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-68a063?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4079ad?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-3fa037?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat-square&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00c4cc?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Algorithms-orange?style=flat-square&logo=code&logoColor=white"/>
+
 </p>
 
 ---
@@ -84,6 +84,15 @@
 
 ---
 
+## 🏆 Top Contributed Repo
+
+| Repository         | Contributor Stats |
+|--------------------|:----------------:|
+| [YourBestRepo1](https://github.com/krishx06/nst-sdc/campus-buddy) | 🟢 B |
+| [YourBestRepo2](https://github.com/krishx06/sandwichgeeks) | 🟢 B |
+| [YourBestRepo3](https://github.com/krishx06/coffeeshopproject) | 🟢 B |
+
+---
 ## 💬 Random Dev Quote
 
 > “If you think your users are idiots, only idiots will use it.”  
