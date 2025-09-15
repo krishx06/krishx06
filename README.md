@@ -1,37 +1,92 @@
-# Hi, I'm Krish Patil 👋  
+<!-- MaxLeadAI / README.md -->
 
-💻 **Second-year CSE student** at Newton School of Technology  
-⚡ Aspiring **Full-Stack Developer** | Passionate about solving real-world problems  
-🛠️ Skilled in **JavaScript, React, Python, MySQL, HTML, CSS & DSA**  
-🌱 Exploring **Open Source, Scalable Systems & Software Architecture**  
-
----
-
-## 💻 Tech Stack  
-- **Frontend:** HTML5, CSS3, JavaScript, React, Bootstrap  
-- **Backend:** Python, Node.js (learning), Django  
-- **Database:** MySQL, MongoDB  
-- **Tools & Platforms:** GitHub, Docker, Vagrant, Arduino  
-- **Design & Deployment:** Netlify, Figma, Canva  
-
----
-
-## 📊 GitHub Stats  
-
+<h1 align="center">Hi, I'm Krish Patil 👋✨</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishx06&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishx06&theme=radical" width="48%" />
+  <b>Second-Year CSE Student | Full-Stack Developer Aspirant | Exploring Scalable Tech</b><br>
+  <b>Problem Solver · Tech Enthusiast · Open Source Explorer</b>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishx06&layout=compact&theme=radical" width="40%" />
-</p>
+---
 
+## 📝 About Me
+
+- 👨‍💻 **Second-year CSE student** at Newton School of Technology
+- 💡 Passionate about building **real-world impactful solutions**
+- 🛠️ Skilled in **JavaScript, React, Python, MySQL, HTML, CSS & DSA**
+- 🌱 Exploring **Open Source, Scalable Systems and Software Architecture**
+- 🙌 Always up for learning: AI, backend dev, and cloud tech
+- 💬 Love discussing web dev, AI, and team projects!
+- 🎨 Hobby: Minimal design, tech memes, digital art
 
 ---
 
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/krish-patil-nst)
-- ✉️ [Email](mailto:krishpatil120@gmail.com)  
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-68a063?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4079ad?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-3fa037?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat-square&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00c4cc?style=flat-square&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+## 👨‍💻 What I’m Up To
+
+- 🏗 Building beautiful UIs with React, Tailwind, and JS
+- 🤝 Collaborating on open source and student projects
+- 🧠 Learning about scalable systems, backend tools & system design
+- 🎯 Hackathons — always keen on impactful projects
+- 🌱 Self-growth: Exploring DSA, new stacks, and creative tech
+
+---
+
+## 🤝 Let’s Collaborate!
+
+- 💻 Frontend Projects – Clean UI or React + Tailwind? I’m in!
+- 🚀 Hackathons – Passionate about solving real problems
+- 🔍 Study Circles – DSA, CP, and all things full-stack
+- 🧩 Open Source – Let’s fix something meaningful, together
+- 🌍 Projects that matter: Mental health, education, sustainability
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/krish-patil-nst" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:krishpatil120@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishx06&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishx06&theme=radical" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishx06&layout=compact&theme=radical" width="40%"/>
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+> “If you think your users are idiots, only idiots will use it.”  
+> <sub>— Linus Torvalds</sub>
 
 ---
