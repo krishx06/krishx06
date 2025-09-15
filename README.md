@@ -94,6 +94,7 @@
 **Krish Patil's GitHub Contributor Stats**
 
 <div align="center">
+  
 | <img src="https://img.shields.io/badge/Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white"/> | <span style="font-size:20px;">⭐</span> |
 |:--------------------------|:---:|
 | **Campus Buddy**          | <img src="https://img.shields.io/badge/B-323232?style=for-the-badge&labelColor=111&color=333&labelWidth=30&logoColor=grey"/> |
