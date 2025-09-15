@@ -93,13 +93,14 @@
 
 **Krish Patil's GitHub Contributor Stats**
 
-| ![GitHub](https://img.shields.io/badge/Repository-11172b?style=for-the-badge&logo=github&logoColor=%2339ffd7) | ✨ |
-|:------------------------------------------------------:|:---:|
-| [🟢 Campus Buddy](https://github.com/krishx06/nst-sdc/campus-buddy)      | ![B](https://img.shields.io/badge/B-39ffd7?style=for-the-badge&labelColor=191622&color=39ffd7) |
-| [⚡ Sandwich Geeks](https://github.com/krishx06/sandwichgeeks)           | ![B](https://img.shields.io/badge/B-39ffd7?style=for-the-badge&labelColor=191622&color=39ffd7) |
-| [💻 CoffeeShopProject](https://github.com/krishx06/coffeeshopproject)    | ![B](https://img.shields.io/badge/B-39ffd7?style=for-the-badge&labelColor=191622&color=39ffd7) |
+| <img src="https://img.shields.io/badge/Repository-2ea44f?style=for-the-badge&logo=github&logoColor=white"/> | <span style="font-size:20px;">⭐</span> |
+|:--------------------------|:---:|
+| **Campus Buddy**          | <img src="https://img.shields.io/badge/B-323232?style=for-the-badge&labelColor=111&color=333&labelWidth=30&logoColor=grey"/> |
+| **Sandwich Geeks**        | <img src="https://img.shields.io/badge/B-323232?style=for-the-badge&labelColor=111&color=333&labelWidth=30&logoColor=grey"/> |
+| **CoffeeShopProject**     | <img src="https://img.shields.io/badge/B-323232?style=for-the-badge&labelColor=111&color=333&labelWidth=30&logoColor=grey"/> |
 
 ---
+
 ## 💬 Random Dev Quote
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”
