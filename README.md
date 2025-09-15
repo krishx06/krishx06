@@ -91,11 +91,14 @@
 
 ## 🏆 Top Contributed Repo
 
-| Repository         | Contributor Stats |
-|--------------------|:----------------:|
-| [YourBestRepo1](https://github.com/krishx06/nst-sdc/campus-buddy) | 🟢 B |
-| [YourBestRepo2](https://github.com/krishx06/sandwichgeeks) | 🟢 B |
-| [YourBestRepo3](https://github.com/krishx06/coffeeshopproject) | 🟢 B |
+**Krish Patil's GitHub Contributor Stats**
+
+| <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/> | ⭐ |
+| :------------------------------------------------------------: | :-: |
+| [Campus Buddy](https://github.com/krishx06/nst-sdc/campus-buddy) | B |
+| [Sandwich Geeks](https://github.com/krishx06/sandwichgeeks)               | B |
+| [CoffeeShopProject](https://github.com/krishx06/coffeeshopproject)       | B |
+
 
 ---
 ## 💬 Random Dev Quote
