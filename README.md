@@ -38,14 +38,19 @@
 <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00c4cc?style=flat-square&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-Algorithms-orange?style=flat-square&logo=code&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/VSCode-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-f05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor%20AI-grey?style=flat-square&logoColor=white"/>
 </p>
 
 ---
 
 ## 👨‍💻 What I’m Up To
 
-- 🏗 Building beautiful UIs with React, Tailwind, and JS
+- 🏗 Building beautiful UIs with React, CSS and JS
 - 🤝 Collaborating on open source and student projects
 - 🧠 Learning about scalable systems, backend tools & system design
 - 🎯 Hackathons — always keen on impactful projects
@@ -55,11 +60,11 @@
 
 ## 🤝 Let’s Collaborate!
 
-- 💻 Frontend Projects – Clean UI or React + Tailwind? I’m in!
+- 💻 Frontend Projects – Clean UI or React + CSS? I’m in!
 - 🚀 Hackathons – Passionate about solving real problems
-- 🔍 Study Circles – DSA, CP, and all things full-stack
+- 🔍 Study Circles – DSA and all things full-stack
 - 🧩 Open Source – Let’s fix something meaningful, together
-- 🌍 Projects that matter: Mental health, education, sustainability
+- 🌍 Projects that matter: AI powered solutions, open-source accessibility, education
 
 ---
 
