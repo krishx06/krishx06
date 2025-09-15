@@ -93,17 +93,16 @@
 
 **Krish Patil's GitHub Contributor Stats**
 
-| <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/> | ⭐ |
-| :------------------------------------------------------------: | :-: |
-| [Campus Buddy](https://github.com/krishx06/nst-sdc/campus-buddy) | B |
-| [Sandwich Geeks](https://github.com/krishx06/sandwichgeeks)               | B |
-| [CoffeeShopProject](https://github.com/krishx06/coffeeshopproject)       | B |
-
+| ![GitHub](https://img.shields.io/badge/Repository-11172b?style=for-the-badge&logo=github&logoColor=%2339ffd7) | ✨ |
+|:------------------------------------------------------:|:---:|
+| [🟢 Campus Buddy](https://github.com/krishx06/nst-sdc/campus-buddy)      | ![B](https://img.shields.io/badge/B-39ffd7?style=for-the-badge&labelColor=191622&color=39ffd7) |
+| [⚡ Sandwich Geeks](https://github.com/krishx06/sandwichgeeks)           | ![B](https://img.shields.io/badge/B-39ffd7?style=for-the-badge&labelColor=191622&color=39ffd7) |
+| [💻 CoffeeShopProject](https://github.com/krishx06/coffeeshopproject)    | ![B](https://img.shields.io/badge/B-39ffd7?style=for-the-badge&labelColor=191622&color=39ffd7) |
 
 ---
 ## 💬 Random Dev Quote
 
-> “If you think your users are idiots, only idiots will use it.”  
-> <sub>— Linus Torvalds</sub>
+> “Programs must be written for people to read, and only incidentally for machines to execute.”
+> <sub>— Harold Abelson</sub>
 
 ---
