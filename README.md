@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Krish Patil 👋✨</h1>
 <p align="center">
-  <b>Third CSE Student | Full-Stack Developer Aspirant | Exploring Scalable Tech</b><br>
+  <b>Third year CSE Student | Full-Stack Developer Aspirant | Exploring Scalable Tech</b><br>
   <b>Problem Solver · Tech Enthusiast · Open Source Explorer</b>
 </p>
 
